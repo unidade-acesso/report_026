@@ -1,0 +1,24 @@
+name: Setup labels
+
+permissions:
+  contents: write
+  issues: write
+
+on:
+  push:
+    branches:
+      - main
+  repository_dispatch:
+
+jobs:
+  labels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Apply labels
+        uses: EndBug/label-sync@v2
+        with:
+          config-file: .github/labels/labels.yml
+          token: ${{ secrets.GITHUB_TOKEN }}
+          delete-other-labels: true

@@ -1,0 +1,129 @@
+- name: av auto
+  color: "5319e7"
+  description: Capítulo avaliação automática
+- name: chk 10 web
+  color: "5319e7"
+  description: Checklist 10 aspetos críticos para sítios web
+- name: chk conteúdo
+  color: "5319e7"
+  description: Checklist Conteúdo para sítios web
+- name: chk transação
+  color: "5319e7"
+  description: Checklist Transação para sítios web
+- name: dec a11y
+  color: "5319e7"
+  description: Capítulo declaração de acessibilidade
+- name: melhoria
+  color: "fbca04"
+  description: OK, mas pode melhorar
+- name: N/A
+  color: "c2e0c6"
+  description: Requisito Não Aplicável
+- name: NOK
+  color: "b60205"
+  description: Requisito Não Conforme
+- name: OK
+  color: "0e8a16"
+  description: Requisito Conforme
+- name: outras violações
+  color: "5319e7"
+  description: ""
+- name: R 1.1
+  color: "0052cc"
+  description: Requisito 1.1
+- name: R 1.2
+  color: "0052cc"
+  description: Requisito 1.2
+- name: R 1.3
+  color: "0052cc"
+  description: Requisito 1.3
+- name: R 1.4
+  color: "0052cc"
+  description: Requisito 1.4
+- name: R 10.1
+  color: "0052cc"
+  description: Requisito 10.1
+- name: R 2.1
+  color: "0052cc"
+  description: Requisito 2.1
+- name: R 2.2
+  color: "0052cc"
+  description: Requisito 2.2
+- name: R 2.3
+  color: "0052cc"
+  description: Requisito 2.3
+- name: R 2.4
+  color: "0052cc"
+  description: Requisito 2.4
+- name: R 3.1
+  color: "0052cc"
+  description: Requisito 3.1
+- name: R 3.2
+  color: "0052cc"
+  description: Requisito 3.2
+- name: R 3.3
+  color: "0052cc"
+  description: Requisito 3.3
+- name: R 4.1
+  color: "0052cc"
+  description: Requisito 4.1
+- name: R 4.2
+  color: "0052cc"
+  description: Requisito 4.2
+- name: R 4.3
+  color: "0052cc"
+  description: Requisito 4.3
+- name: R 4.4
+  color: "0052cc"
+  description: Requisito 4.4
+- name: R 5.1
+  color: "0052cc"
+  description: Requisito 5.1
+- name: R 5.2
+  color: "0052cc"
+  description: Requisito 5.2
+- name: R 5.3
+  color: "0052cc"
+  description: Requisito 5.3
+- name: R 5.4
+  color: "0052cc"
+  description: Requisito 5.4
+- name: R 6.1
+  color: "0052cc"
+  description: Requisito 6.1
+- name: R 6.2
+  color: "0052cc"
+  description: Requisito 6.2
+- name: R 7.1
+  color: "0052cc"
+  description: Requisito 7.1
+- name: R 7.2
+  color: "0052cc"
+  description: Requisito 7.2
+- name: R 8.1
+  color: "0052cc"
+  description: Requisito 8.1
+- name: R 8.2
+  color: "0052cc"
+  description: Requisito 8.2
+- name: R 8.3
+  color: "0052cc"
+  description: Requisito 8.3
+- name: R 8.4
+  color: "0052cc"
+  description: Requisito 8.4
+- name: R 8.5
+  color: "0052cc"
+  description: Requisito 8.5
+- name: R 9.1
+  color: "0052cc"
+  description: Requisito 9.1
+- name: R 9.2
+  color: "0052cc"
+  description: Requisito 9.2
+- name: R 9.3
+  color: "0052cc"
+  description: Requisito 9.3
+- name: R 9.4
+  color: "0052cc"
+  description: Requisito 9.4
