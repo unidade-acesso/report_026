@@ -20,6 +20,6 @@ Consulte aqui a última atualização: [Relatório da Câmara Municipal de Alcou
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="teste_report.html">(13/03/2026). Relatório da Câmara Municipal de Alcoutim</a></li>
+    <li><a href="31032026_report.html">(09/04/2026). Relatório da Câmara Municipal de Alcoutim</a></li>
   </ul>
 </details>
